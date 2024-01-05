@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Studying Systems Analysis and Development at UMC;
+- Studying Systems Analysis and Development;
 - Particular interest in mastering the art of web development.
 
 I believe that keeping an open mind and being willing to learn new technologies is crucial to achieving success in this field.
