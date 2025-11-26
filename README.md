@@ -24,9 +24,4 @@ I believe that keeping an open mind and being willing to learn new technologies 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RickyAlm&theme=highcontrast)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RickyAlm&theme=highcontrast)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyAlm&theme=highcontrast)
-
 ---
