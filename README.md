@@ -9,7 +9,7 @@ Tenho experiência em ambientes reais de produção, lidando com **banco de dado
 
 ## 🚀 Sobre mim
 
-* Desenvolvedor apaixonado por tecnologia desde criança
+* Desenvolvedor apaixonado por tecnologia
 * Proativo, curioso e movido por desafios
 * Forte interesse em **arquitetura**, **boas práticas** e **qualidade de código**
 * Acredito no aprendizado contínuo e no compartilhamento de conhecimento
